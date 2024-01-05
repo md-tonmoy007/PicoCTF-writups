@@ -6,3 +6,4 @@
 3. [Client-side-again](https://github.com/md-tonmoy007/PicoCTF-writups/blob/main/webExploitaion/Client-side-again/Client-side-again.md)
 4. [Web Gauntlet](https://github.com/md-tonmoy007/PicoCTF-writups/blob/main/webExploitaion/Web-Gauntlet/Web-Gaunlet.md)
 5. [Forbidden Paths](https://github.com/md-tonmoy007/PicoCTF-writups/blob/main/webExploitaion/Forbidden-Paths/Forbidden-Paths.md)
+6. [Power Cookie](https://github.com/md-tonmoy007/PicoCTF-writups/blob/main/webExploitaion/Power-Cookie/Power-Cookie.md)
